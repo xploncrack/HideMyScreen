@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\bin\Debug\HideMyScreen.exe.config
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\bin\Debug\HideMyScreen.exe
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\bin\Debug\HideMyScreen.pdb
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\obj\Debug\HideMyScreen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\obj\Debug\HideMyScreen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\obj\Debug\HideMyScreen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\obj\Debug\HideMyScreen.exe
+C:\Users\Admin\Desktop\PROJECTS\HideMyScreen\HideMyScreen\obj\Debug\HideMyScreen.pdb
