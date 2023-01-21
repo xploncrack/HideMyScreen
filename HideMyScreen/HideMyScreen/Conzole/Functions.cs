@@ -7,19 +7,6 @@ namespace HideMyScreen.Conzole
         public static void WriteColors(string Text, string[] Symbols, ConsoleColor Color)
         {
             Console.ResetColor();
-            //foreach (var Symbol in Symbols)
-            //{
-            //    foreach (var Letter in Text)
-            //    {
-            //        Console.ResetColor();
-            //        if (Letter.ToString() == Symbol)
-            //        {
-            //            Console.ForegroundColor = Color;
-            //        }
-            //        Console.Write(Letter.ToString());
-            //    }
-            //}
-
             foreach (var Letter in Text)
             {
                 foreach (var Symbol in Symbols)
